@@ -1,0 +1,3 @@
+[submodule "donet-android"]
+	path = donet-android
+	url = https://github.com/prateekalat/donet-android.git
